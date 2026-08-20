@@ -1,6 +1,6 @@
 {
   "name": "line-oa-mcp-ultimate",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "Talk to your LINE Official Account through AI \u2014 broadcasts, Flex & tappable Rich Messages, Thai-ready rich menus, coupons, insights, LINE Shopping. New in 2.2: attach a picture, say send \u2014 zero hosting setup, verified before success. 51 tools (37+14), multi-OA. Works with Claude Cowork, Claude Code,",
   "main": "src/index.ts",
   "scripts": {
